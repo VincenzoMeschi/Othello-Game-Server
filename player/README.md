@@ -18,7 +18,7 @@ To run the 'returns a valid response', run `npm run test -- -t 'returns a valid 
 
 # My experience during the project
 
-This was a great assessment and I thoroughly enjoyed it from start to finish: _it way more interesting than a typical Leetcode question, thanks for that lol_. I came across a few roadblocks, learned some new things, and grew as a developer by the end. By no means is my solution a perfect one, but given the time allowed it is a good one.
+This was a great assessment and I thoroughly enjoyed it from start to finish: _it was way more interesting than a typical Leetcode question, thanks for that lol_. I came across a few roadblocks, learned some new things, and grew as a developer by the end. By no means is my solution a perfect one, but given the time allowed it is a good one.
 
 ### My process
 
